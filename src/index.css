@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: 'Abril Fatface', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f4f5f7
+}
+
+code {
+  font-family: 'Abril Fatface', cursive;
+}
+
+input {
+  padding: 10px;
+  border-width: 2px;
+  width: 400px;
+  text-align: center;
+  color: #282c34;
+  background-color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: calc(15px + 1vmin);
+}
+
+.react-datepicker__month-container {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.react-datepicker__time-container {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.react-datepicker {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 1rem;
+
+}
+
+a:hover {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 1rem;
+  color: #282c34;
+}
